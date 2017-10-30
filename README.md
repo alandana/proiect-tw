@@ -1,16 +1,16 @@
 # proiect-tw
 
-#Interfata/design
+  #INTERFATA/DESIGN
   - pagina va contine cateva tab-uri, fiecare tab fiind corespunzator unei activitati(de exemplu libraria personala sau persoanele avute       la urmaritori ai profilului)
   - in partea de jos a ecranului vor exista o bara de cautare in documente dupa cuvant cheie, un buton de incarcare de document si             eventual un buton care sa permita crearea unui folder nou
   - in dreptul fiecarui document afisat in pagina, utilizatorul va avea posibilitatea de a-l adauga la favorite sau de a-l muta in cosul       de gunoi
-#Componente
+#COMPONENTE
   - lista de documente
   - utilizatori din follow
   - buton de cautare
   - buton de incarcare document
   - tab pentru fiecare optiune a meniului
-#API calls
+#API CALLS
   - GET /documents
   - POST /documents
   - GET /documents/{id} 
@@ -20,7 +20,7 @@
   - DELETE /folders/{id}
   - GET /followers; POST /followers; PATCH /followers/{id}; DELETE /followers/{id}
   - GET /search/documents
-#Actiunile utilizatorului
+#ACTIUNILE UTILIZATORULUI
   - vizualizare documente 
   - vizualizare documente favorite
   - incarcare document
