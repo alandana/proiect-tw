@@ -28,9 +28,8 @@ proiect-tw
 #ACTIUNILE UTILIZATORULUI
 
 - vizualizare documente
-- vizualizare documente favorite
 - incarcare document
 - stergere document
-- adaugare document la favorite
 - follow alti utilizatori
+- accept/decline cerere de follow
 - cautare dupa cuvant cheie
